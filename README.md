@@ -8,4 +8,4 @@ Quantidade Registros: 130 <br/><br/>
 
 Arquivo: pandas_xlsx_para_sql_server.py <br/><br/>
 
-Descrição: exemplo utilizando a biblioteca "pandas" e "pyodbc" para fazer a migração dos dados de uma planilha .xlsx para uma base de daddos SQL Server. Este exemplo utiliza algumas das caracteristicas de ambas bibliotecas.
+Descrição: exemplo utilizando a biblioteca "pandas" e "pyodbc" para fazer a migração dos dados de uma planilha .xlsx para uma base de dados SQL Server. Este exemplo utiliza algumas das características de ambas as bibliotecas.
